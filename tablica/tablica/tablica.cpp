@@ -34,6 +34,7 @@ double policzSrednia2(int*tablica)
 	srednia2 = srednia2 / 10;
 	return srednia2;
 }
+//test
 int policzSume(int*tablica)
 {
 	int suma = 0;
